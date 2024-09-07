@@ -1,8 +1,8 @@
 ### Projektbeschrieb
-Dieses Projekt entstand im Herbstsemester 2024 im Rahmen der Übung _Grand tour gone digital. Computergestützte analyse frühneuzeitlicher Reiseberichte_ an der Universität Basel unter der Leitung von Ina Serif.
+Dieses Projekt entstand im Herbstsemester 2024 im Rahmen der Übung _Grand tour gone digital. Computergestützte analyse frühneuzeitlicher Reiseberichte_ an der Universität Basel unter der Leitung von Ina Serif. Im Hinblick auf die Frage, ob und wie ein _Distant-reading_-Ansatz für historische Fragestellungen Nutzbar gemacht werden kann, wurde in einem ersten Schritt ein Textkorpus zusammengestellt und für den maschinellen Vergleich aufbereitet. Das Korpus umfasst Reiseberichte von [Philipp Hainhofer](https://hainhofer.hab.de/) 
 ### Author:innen
 Stefan Heinen, Nora Holländer, Anna Scognamiglio
 ### Systemanforderungen
 Python 3.12.2 <br>
-Alle weiteren erforderlichen Packages und deren Dependencies sind in `requirements.txt` gelistet. <br>
+Alle weiteren erforderlichen Packages und Dependencies sind in `requirements.txt` gelistet. <br>
 Installation via Kommandozeile mit pip: `pip install -r requirements.txt`, oder eurem präferierten Package-manager. 
