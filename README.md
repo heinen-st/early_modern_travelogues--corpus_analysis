@@ -5,4 +5,4 @@ Stefan Heinen, Nora Holländer, Anna Scognamiglio
 ### Systemanforderungen
 Python 3.12.2 <br>
 Alle weiteren erforderlichen Packages und Dependencies sind in `requirements.txt` gelistet. <br>
-Installation via Kommandozeile mit pip: `pip install -r requirements.txt`, oder eurem präferierten Package-manager. 
+Installation via Kommandozeile mit pip: `pip install -r requirements.txt`, oder einem anderen Package-manager eurer Wahl. 
